@@ -1,0 +1,140 @@
+section {
+    background: url(../imgs/photoBack2.png);
+    height: 800px;
+    width: 100%;
+}
+
+.header {
+    background: #5168a8;
+    height: 120px;
+
+}
+
+.logo {
+    margin-top: 20px;
+}
+
+#descrip {
+    color: white;
+    text-align: right;
+    margin-top: 35px;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+}
+
+#slogan {
+    color: black;
+    text-align: center;
+    font-family: 'mogra', cursive;
+    text-shadow: 4px 4px 4px #fff;
+}
+
+#formHeader {
+    background: #5168a8;
+    height: 80px;
+    border-radius: 5px;
+}
+
+#formHeaderText {
+    margin-top: 30px;
+    color: white;
+    text-align: left;
+
+}
+
+#servicios {
+    background-color: #5168a8;
+    height: 325px;
+}
+
+#iconos {
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 15px;
+    width: 200px;
+    height: 200px;
+    border: 30px solid white;
+    border-radius: 150px;
+}
+
+.descripcion {
+    height: 300px;
+
+}
+
+#tituloServicios {
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+#contenidoServicios {
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    font-family: 'Oswald',sans-serif;
+}
+
+#promo {
+    height: 325px;
+    color: #5168a8;
+    font-family: 'Oswald',sans-serif;
+    text-align: center;
+}
+
+#contenidoPromo {
+    text-align: center;
+    font-size: 12px;
+    color: #5168a8;
+    font-family: 'Oswald',sans-serif;
+    margin-top: 20px;
+
+}
+
+#tituloCaracteristicas {
+    text-align: center;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+#textoCaracteristicas {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 12px;
+    text-align: justify;
+}
+
+.listasBeneficios {
+    text-align: left;
+    color: #5168a8;
+    font-family: 'Oswald',sans-serif;
+    font-size: 16px;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+#formBeneficios {
+    background: #5168a8;
+    height: 80px;
+    border-radius: 5px;
+}
+
+#clientes {
+    height: 450px;
+    background: black;
+    color: white;
+
+}
+
+#textoClientes {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
